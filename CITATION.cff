@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: "Si vous utilisez ce framework, merci de le citer comme suit."
+authors:
+  - family-names: Ouellette
+    given-names: Bryan
+    email: lmc.theory@gmail.com
+title: "KERNEL v4.0: Adaptive Cognitive Scheduler for LLMs"
+version: 4.0.0
+date-released: 2026-02-06
+url: "https://github.com/Inphinie/KERNEL-v4-Cognitive-Scheduler"
+abstract: >
+  KERNEL v4.0 est une architecture de meta-raisonnement qui orchestre plusieurs techniques 
+  d'ingénierie du prompt (LATS, ToT, ReAct) via un scheduler dynamique basé sur la complexité. 
+  Développé sous l'égide de Lichen-Collectives.
+keywords:
+  - Cognitive Architecture
+  - LLM Reasoning
+  - Prompt Engineering
+  - Lichen-Collectives
