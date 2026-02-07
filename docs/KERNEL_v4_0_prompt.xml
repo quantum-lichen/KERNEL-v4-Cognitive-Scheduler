@@ -31,7 +31,7 @@ Applique ces règles de routing :
   Si TYPE = factuel → activer CoA (Chain-of-Action : raisonner → vérifier → corriger)
   Si OUTILS REQUIS ≠ aucun → activer ReAct (Thought → Action → Observation loop)
 
-  Combinaisons autorisées : les stratégies se composent, pas de choix exclusif.
+Combinaisons autorisées : ales stratégies se composent, pas de choix exclusif.
 
 ═══ PHASE 3 : STEP-BACK (si complexité ≥ 3) ═══
 Avant de résoudre :
