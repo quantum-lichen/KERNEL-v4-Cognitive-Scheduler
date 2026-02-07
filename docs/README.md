@@ -1,14 +1,14 @@
-# 🧠 KERNEL v4.0 : Scheduler Cognitif Adaptatif
+# 🧠 KERNEL v4.2 : Scheduler Cognitif Adaptatif
 
 ![Version](https://img.shields.io/badge/Version-4.0-blueviolet?style=for-the-badge)
 ![Domain](https://img.shields.io/badge/Domain-AI_Cognitive_Architecture-green?style=for-the-badge)
 ![Status](https://img.shields.io/badge/Status-Academic_Release-orange?style=for-the-badge)
 
 ## 🌌 Synopsis
-**KERNEL v4.0** est une architecture de meta-prompting avancée conçue pour transformer les modèles de langage en agents de raisonnement hautement performants. Contrairement aux approches linéaires, KERNEL v4.0 agit comme un **Scheduler Cognitif** qui analyse la requête, en extrait l'intention profonde et sélectionne la stratégie de résolution la plus efficace (CoT, ToT, LATS, ReAct) en fonction d'une échelle de complexité calibrée.
+**KERNEL v4.2** est une architecture de meta-prompting avancée conçue pour transformer les modèles de langage en agents de raisonnement hautement performants. Contrairement aux approches linéaires, KERNEL v4.0 agit comme un **Scheduler Cognitif** qui analyse la requête, en extrait l'intention profonde et sélectionne la stratégie de résolution la plus efficace (CoT, ToT, LATS, ReAct) en fonction d'une échelle de complexité calibrée.
 
 ## 🧬 Formalisme Mathématique
-Le noyau de KERNEL v4.0 repose sur une fonction de sélection de stratégie $S$ basée sur le triplet $(\mathcal{C}, \mathcal{T}, \mathcal{O})$ où :
+Le noyau de KERNEL v4.2 repose sur une fonction de sélection de stratégie $S$ basée sur le triplet $(\mathcal{C}, \mathcal{T}, \mathcal{O})$ où :
 - $\mathcal{C}$ est la complexité perçue $\mathcal{C} \in \{1, 2, 3, 4, 5\}$
 - $\mathcal{T}$ est le type de domaine (logique, code, etc.)
 - $\mathcal{O}$ est la nécessité d'outils externes
